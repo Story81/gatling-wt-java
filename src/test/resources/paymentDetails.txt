@@ -1,0 +1,1 @@
+firstName=${firstName}&lastName=${lastName}&creditCard=${creditCard}&outboundFlight=${outboundFlight}&numPassengers=1&seatType=Coach&saveCC=on
