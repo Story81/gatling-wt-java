@@ -5,7 +5,7 @@ import io.gatling.javaapi.http.HttpProtocolBuilder;
 import static io.gatling.javaapi.http.HttpDsl.http;
 
 
-public class Protocols {
+public class Otus {
     public static final HttpProtocolBuilder httpProtocol =
             http
                     .baseUrl("http://webtours.load-test.ru:1090/")

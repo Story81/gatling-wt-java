@@ -4,7 +4,7 @@ import io.gatling.javaapi.core.OpenInjectionStep;
 import io.gatling.javaapi.core.Simulation;
 import otus.scenarios.CommonScenario;
 
-import static otus.steps.Protocols.httpProtocol;
+import static otus.steps.Otus.httpProtocol;
 
 
 public class Debug extends Simulation {
